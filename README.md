@@ -1,2 +1,37 @@
-# htdoc
-History of ENEDAO.COM (এনেদাও) ENEDAO.COM has been carrying out its operations in Bashundhara R/A from the past one and a half year. In starting It was serving only homemade food (Lunch &amp; Dinner) by the name of “DAALVAAT” in this residential area. When they realize the necessity and demand of other Goods Delivery Service, we had started delivering almost everything from the market and named it as “ENEDAO.COM”   Concepts Of ENEDAO.COM  The name “ENEDAO” means “Bring it to me” The idea of ENEDAO is order anything you need, We collect it from market and deliver it to your door. Basically ENEDAO is nothing but a delivery service. We can describe ENEDAO in a very simple way “ENEDAO.COM is an online food, grocery, medicine and other products delivery service serving within a very short time (currently 45 minutes MAX) faster than any other service inside Bashundhara R/A.” 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/ENEDAO/htdoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ENEDAO/htdoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
